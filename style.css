@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 140px;
+}
+.bg-color{
+   background-image: url(images/bg-1.png);
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.buy-now{
+    border: none;
+    padding: 10px 15px;
+    color:white;
+    background-color: black;
+    border-radius: 10px;
+}
+.box-shodow{
+   box-shadow: 1px 1px 10px gray;
+
+    border: none;
+    border-radius: 30px;
+}
+.card{
+    border: none;
+    padding:20px 20px;
+}
+.align{
+    text-align: center;
+}
+.shodow{
+    box-shadow: 1px 1px 10px lightgray;
+   
+    
+}
